@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Outer frame -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M3,3h18v18H3z" />
+    <!-- Bookmark shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M7,5h4v12l-2,-2l-2,2V5z" />
+</vector>
